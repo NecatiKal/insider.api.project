@@ -1,0 +1,73 @@
+{
+  "VALID-PET-1": {
+    "id": 1001,
+    "category": {
+      "id": 1001,
+      "name": "Gorilla1"
+    },
+    "name": "gorilla-S",
+    "photoUrls": [
+      "gorilla.jpeg"
+    ],
+    "tags": [
+      {
+        "id": 1001,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  "UPDATED-PET-1": {
+    "id": 1005,
+    "category": {
+      "id": 1005,
+      "name": "Gorilla2"
+    },
+    "name": "gorilla-XL",
+    "photoUrls": [
+      "/insider.api.project/data/Gorilla.jpeg"
+    ],
+    "tags": [
+      {
+        "id": 10005,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  "INVALID-PET-1": {
+    "id": "gorillas",
+    "category": {
+      "id": -1,
+      "name": 1
+    },
+    "name": "",
+    "photoUrls": [
+      "/insider.api.project/data/Gorilla.jpeg"
+    ],
+    "tags": [
+      {
+        "id": 1010,
+        "name": "string"
+      }
+    ],
+    "status": ""
+  },
+  "INVALID-PET-2": {
+    "id": 9003,
+    "category": {
+      "id": -1,
+      "name": 1
+    },
+    "name": "",
+    "photoUrls": [
+
+    ],
+    "tags": [
+      {
+        "id": 1010,
+        "name": "string"
+      }
+    ],
+    "status": ""
+  }}
